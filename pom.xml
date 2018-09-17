@@ -30,7 +30,7 @@
         <plugin>
           <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-war-plugin</artifactId>
-          <version>3.5.4</version>
+          <version>3.0.0</version>
         </plugin>
  <!-- see http://tomcat.apache.org/maven-plugin-trunk/tomcat7-maven-plugin/usage.html -->
         <plugin>
